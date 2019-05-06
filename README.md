@@ -1,6 +1,6 @@
 # Numerical-Methods-Algorithms
-This repository contains MATLAB numerical method programs created in MECH 105
-\nAll programs created in MATLAB R2018b
+This repository contains MATLAB numerical method programs created in MECH 105<br/>
+All programs created in MATLAB R2018b
 
 ## Inluded Programs
 
