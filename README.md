@@ -2,7 +2,7 @@
 This repository contains MATLAB numerical method programs created in MECH 105<br/>
 All programs created in MATLAB R2018b
 
-## Inluded Programs
+## Included Programs
 
 #### Simpson
    * Integral of tabulated data with Simpon's 1/3 rule
