@@ -5,7 +5,9 @@ All programs created in MATLAB R2018b
 ## Inluded Programs
 
 #### Simpson
-   * Integral of tabulated data with Simpon's 1/2 rule
+   * Integral of tabulated data with Simpon's 1/3 rule
+   * Note: If there is an even number of intervals algorithm uses trapazoidal<br/>
+   rule for last interval
    * Note: This program does not work fully
 #### falsePostion
    * Root finding algorithm that uses falsePosition method
