@@ -12,4 +12,6 @@ of the vector function values 'y' with respect to 'x'
    * [I] = Simpson(x,y);
    
 # Important Note
-This program currently does not evaluate the integral properly.
+   * This program uses the trapazoidal rule for the last interval if there is an even<br/>
+   number of intervals
+   * This program currently does not evaluate the integral properly.
