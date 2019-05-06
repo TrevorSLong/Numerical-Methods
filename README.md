@@ -11,8 +11,8 @@ All programs created in MATLAB R2018b
    * Decomposes matrix into upper triangular and lower triangular
    
 # Git Command
-`git clone https://github.com/DroTron/Numerical-Methods-Algorithms/PROGRAM/PROGRAM.m`
-*  Replace PROGRAM with desired program from list above
+`git clone https://github.com/DroTron/Numerical-Methods-Algorithms`
+*  Clones entire repository
 *  add `~/FOLDER/SUBFOLDER` after PROGRAM.m to clone to specific folder
-   * Ex: `git clone https://github.com/DroTron/Numerical-Methods-Algorithms/Simpson/Simpson.m ~/Simpson`
-   * to clone Simpsons algorithm to a folder in home named Simpson
+   * Ex: `git clone https://github.com/DroTron/Numerical-Methods-Algorithms ~/NumericalMethods`
+   * to clone repository to a folder in home named NumericalMethods
