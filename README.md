@@ -1,8 +1,9 @@
 # Numerical-Methods-Algorithms
-This repository contains MATLAB numerical method programs created in MECH 105 
-All programs created in MATLAB R2018b
+This repository contains MATLAB numerical method programs created in MECH 105
+  All programs created in MATLAB R2018b
 
 ## Inluded Programs
+
 #### Simpson
    * Integral of tabulated data with Simpon's 1/2 rule
    * Note: This program does not work fully
