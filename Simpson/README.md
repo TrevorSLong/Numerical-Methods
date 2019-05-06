@@ -11,5 +11,5 @@ of the vector function values 'y' with respect to 'x'
 4. Help
    * [I] = Simpson(x,y);
    
-#Important Note
+# Important Note
 This program currently does not evaluate the integral properly.
