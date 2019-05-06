@@ -18,4 +18,6 @@ numerical method
 4. Help
    * Use a function with handle for func
    * Ex: @(x)x^2+x
-
+# Notes:
+   * Algorithm requires two guesses that bracket the root (xl and xu)
+   * Algorithm must have all required inputs to work
