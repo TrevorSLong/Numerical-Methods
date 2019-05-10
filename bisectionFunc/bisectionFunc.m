@@ -9,6 +9,16 @@ function [root,err] = bisectionFunc(func,xi,xu,derror)
 %func - function with handle to find root example: @(x)(x^2+2x)
 %xi - guess lower then root
 %xu - guess higher then root
+%Optional Input:
+%derror - desired error (if blank .01 is used)
+%-------------------------------------------------------------------------
+%Outputs:
+%root - estimated root location
+%err - calculated relative error
+%-------------------------------------------------------------------------
+%Hints:
+%xi and xu are both required and must have opposite signs when evaluated
+%at the function
 if nargin < 3
     error('Not enough input arguements');
 end
