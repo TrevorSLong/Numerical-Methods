@@ -15,6 +15,9 @@ All programs created in MATLAB R2018b
 #### luFactor
    * Decomposes matrix into upper triangular and lower triangular
    * Working as of 3/29/2019
+#### bisectionFunc
+   * Estimates root using two guesses that bracket root and bisection method
+   * Working as of 5/10/2019
    
 # Git Command
 `git clone https://github.com/DroTron/Numerical-Methods`
