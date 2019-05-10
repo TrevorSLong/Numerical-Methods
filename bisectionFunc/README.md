@@ -2,7 +2,7 @@
 This MatLab R2018b program estimates the root of a function using a lower 
 and upper guess using the bisection method
 
-#Usage:
+# Usage:
    * [root,err] = bisection(func,xi,xu,derror]
 # I/O:
 1. Inputs
