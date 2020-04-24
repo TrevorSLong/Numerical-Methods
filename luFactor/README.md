@@ -12,3 +12,6 @@ lower triangular matrix based on an inputed matrix.
 3. Help
    * [L,U,P] = luFactor(A);
 
+# Notes
+   * Matrix must be square (other shapes may work but are not tested<br/>
+   for accuracy)
