@@ -22,8 +22,8 @@ All programs created in MATLAB R2018b
    * MATLAB R2020a
    
 # Git Command
-`git clone https://github.com/DroTron/Numerical-Methods-Algorithms`
+`git clone https://github.com/TrevorSLong/Numerical-Methods-Algorithms`
 *  Clones entire repository
 *  add `~/FOLDER/SUBFOLDER` after PROGRAM.m to clone to specific folder
-   * Ex: `git clone https://github.com/DroTron/Numerical-Methods-Algorithms ~/NumericalMethods`
+   * Ex: `git clone https://github.com/TrevorSLong/Numerical-Methods-Algorithms ~/NumericalMethods`
    * to clone repository to a folder in home named NumericalMethods
